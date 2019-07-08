@@ -1,0 +1,19 @@
+{
+  "name": "nuxt-medium-zoom",
+  "version": "1.0.0",
+  "description": "use medium-zoom in nuxt.js projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/equk/nuxt-medium-zoom.git"
+  },
+  "author": "equk <equk@users.noreply.github.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/equk/nuxt-medium-zoom/issues"
+  },
+  "homepage": "https://github.com/equk/nuxt-medium-zoom#readme"
+}
