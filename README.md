@@ -2,9 +2,7 @@
 
 Use `medium-zoom` in nuxt.js projects
 
----
-
-License: MIT
+**License:** MIT
 
 This is a basic plugin which allows use of `medium-zoom` in nuxtjs projects.
 
@@ -12,7 +10,10 @@ More detailed information can be found on my blog article:
 
 [Blog Post - Using Medium Zoom In Nuxtjs](https://equk.co.uk/2019/06/18/using-medium-zoom-in-nuxtjs)
 
-[medium-zoom npm module](https://github.com/francoischalifour/medium-zoom)
+# Requirements
+
+- [medium-zoom npm module](https://github.com/francoischalifour/medium-zoom)
+- Nuxt.js project
 
 # Usage
 
@@ -25,8 +26,6 @@ plugins: ['~/plugins/medium-zoom'];
 ```
 
 The default settings of the plugin use `img` elements with class `zoom`
-
-#
 
 # Contact
 
