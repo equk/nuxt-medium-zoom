@@ -6,9 +6,7 @@ Use `medium-zoom` in nuxt.js projects
 
 This is a basic plugin which allows use of `medium-zoom` in nuxtjs projects.
 
-More detailed information can be found on my blog article:
-
-[Blog Post - Using Medium Zoom In Nuxtjs](https://equk.co.uk/2019/06/18/using-medium-zoom-in-nuxtjs)
+More detailed information can be found on my blog article: [Using Medium Zoom In Nuxtjs](https://equk.co.uk/2019/06/18/using-medium-zoom-in-nuxtjs)
 
 # Requirements
 
